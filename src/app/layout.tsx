@@ -18,11 +18,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <Row>
-          <Col>
-            
-          </Col>
-        </Row>
       </body>
     </html>
   );
